@@ -1,3 +1,3 @@
 <?php
-eccho 'ok';
+eccho 'ok2';
 ?>
